@@ -1,4 +1,4 @@
-# 📊 E-commerce Data Analysis (SQL + Power BI)
+# 📊 Revenue Performance Analytics (SQL + Power BI)
 
 This project focuses on analyzing e-commerce sales data using SQL and presenting key insights through an interactive Power BI dashboard.
 
@@ -35,17 +35,15 @@ The dashboard answers questions such as:
 
 ## 📂 Project Structure
 
-
+```
 revenue-performance-analytics/
 │
-├── data/
-├── sql/    
-├── dashboard/
-├── images/
+├── data/              # datasets and exports
+├── sql/               # SQL queries for analysis
+├── dashboard/         # Power BI dashboard (.pbix)
+├── images/            # dashboard screenshots
 └── README.md
-
-
----
+```
 
 ## 📈 Dashboard Preview
 
